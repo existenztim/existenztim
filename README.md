@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About Me :
-- 🧑‍💻 My name is Tim Sundell and i'm 30 years old.
-- 🎓 I'm currently studying as an  **Front End Developer** at **Medieinstitutet**.
+- 🧑‍💻 My name is Tim Sundell and I'm 30 years old.
+- 🎓 I'm currently studying **Front End Development** at **Medieinstitutet**.
 - 🏡'Lives in **Stockholm** , Sweden.
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-- 😄 The facts above has nothing to do with me.
+- 😄 The "**Fun Facts**" on the line above has nothing to do with me.... or?🤔
 
 
 
