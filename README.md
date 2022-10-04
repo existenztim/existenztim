@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome stranger! 👋
+***
 <!--
 **existenztim/existenztim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me :
+- 🧑‍💻 My name is Tim Sundell and i'm 30 years old.
+- 🎓 I'm currently studying as an  **Front End Developer** at **Medieinstitutet**.
+- 🏡'Lives in **Stockholm** , Sweden.
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 😄 The facts above has nothing to do with me.
+
+
+
