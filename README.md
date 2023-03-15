@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me :
-- 🧑‍💻 My name is Tim Sundell and I'm 30 years old.
+- 🧑‍💻 My name is Tim Sundell and I'm 31 years old.
 - 🎓 I'm currently studying **Front End Development** at **Medieinstitutet**.
 - 🏡 Lives in **Stockholm** , Sweden.
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
